@@ -1,2 +1,7 @@
 hihi
+<<<<<<< HEAD
 ddddddddddddd2
+=======
+
+hhihihi 1
+>>>>>>> a3c60afbba079c88a7cf33cae82606016991763c
